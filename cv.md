@@ -52,3 +52,7 @@ I have an analytical mind, am friendly, and enjoy working in a team.
 ## Experience
 **07.2016 - 10.2016**
 * programmer in the Bank (https://kk.bank/)
+
+## Education
+**2012 - 2018**
+* Kuban state technological University - software engineering
