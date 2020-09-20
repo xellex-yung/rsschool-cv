@@ -56,3 +56,6 @@ I have an analytical mind, am friendly, and enjoy working in a team.
 ## Education
 **2012 - 2018**
 * Kuban state technological University - software engineering
+
+## English
+* I had B2 at University, but I'm sure it dropped to A2 due to lack of practice...
